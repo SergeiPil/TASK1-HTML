@@ -1,6 +1,21 @@
+body{
+	margin:0;
+	font: 0.92em/1.4 Arial, sans-serif;
+}
+#call_us{
+	text-align:left;
+}
+nav{
+	display:block;
+}
 header {
-	background:url(images/header_bg.jpg) no-repeat;
+	margin:0;
+  	background:url(images/header_bg.jpg) no-repeat;
 	background-size:100%;
+}
+.topmenu{
+	display:inline-block;
+	
 }
 #home{
 	background:url(images/home_hover.jpg) no-repeat;
